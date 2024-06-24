@@ -34,7 +34,7 @@ const collectedConferences = {
         '2010-10',
         '2010-04',
     ],
-    '2010-2019' : [
+    '2000-2009' : [
         'https://www.churchofjesuschrist.org/imgs/66bfcde764cf9b83a00b1cbef37d5d1a4d0f66c5/full/200%2C/0/default',
         '2009-10',
         '2009-04',
