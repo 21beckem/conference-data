@@ -1,3 +1,6 @@
+function collectedConferences_flatten() {
+    return Object.values(collectedConferences).flatMap(batch => batch.slice(1));
+}
 const collectedConferences = {
     'main' : [
         'https://content.churchofjesuschrist.org/language-pages/bc/GLO/Default.png',
