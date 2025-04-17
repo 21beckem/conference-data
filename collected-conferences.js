@@ -4,6 +4,7 @@ function collectedConferences_flatten() {
 const collectedConferences = {
     'main' : [
         'https://content.churchofjesuschrist.org/language-pages/bc/GLO/Default.png',
+        '2025-04',
         '2024-10',
         '2024-04',
         '2023-10',
